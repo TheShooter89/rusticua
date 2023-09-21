@@ -1,0 +1,196 @@
+{
+  "alphabet": [
+    {
+      "character": "А",
+      "lowercase": "а",
+      "latin_transliteration": "A",
+      "italian_pronunciation": "ah"
+    },
+    {
+      "character": "Б",
+      "lowercase": "б",
+      "latin_transliteration": "B",
+      "italian_pronunciation": "beh"
+    },
+    {
+      "character": "В",
+      "lowercase": "в",
+      "latin_transliteration": "V",
+      "italian_pronunciation": "veh"
+    },
+    {
+      "character": "Г",
+      "lowercase": "г",
+      "latin_transliteration": "H",
+      "italian_pronunciation": "gheh"
+    },
+    {
+      "character": "Д",
+      "lowercase": "д",
+      "latin_transliteration": "D",
+      "italian_pronunciation": "deh"
+    },
+    {
+      "character": "Е",
+      "lowercase": "е",
+      "latin_transliteration": "E",
+      "italian_pronunciation": "eh"
+    },
+    {
+      "character": "Є",
+      "lowercase": "є",
+      "latin_transliteration": "Ye",
+      "italian_pronunciation": "yeh"
+    },
+    {
+      "character": "Ж",
+      "lowercase": "ж",
+      "latin_transliteration": "Zh",
+      "italian_pronunciation": "zheh"
+    },
+    {
+      "character": "З",
+      "lowercase": "з",
+      "latin_transliteration": "Z",
+      "italian_pronunciation": "zeh"
+    },
+    {
+      "character": "И",
+      "lowercase": "и",
+      "latin_transliteration": "Y",
+      "italian_pronunciation": "ee"
+    },
+    {
+      "character": "І",
+      "lowercase": "і",
+      "latin_transliteration": "I",
+      "italian_pronunciation": "ee"
+    },
+    {
+      "character": "Ї",
+      "lowercase": "ї",
+      "latin_transliteration": "Yi",
+      "italian_pronunciation": "yee"
+    },
+    {
+      "character": "Й",
+      "lowercase": "й",
+      "latin_transliteration": "Y",
+      "italian_pronunciation": "ee"
+    },
+    {
+      "character": "К",
+      "lowercase": "к",
+      "latin_transliteration": "K",
+      "italian_pronunciation": "kah"
+    },
+    {
+      "character": "Л",
+      "lowercase": "л",
+      "latin_transliteration": "L",
+      "italian_pronunciation": "ehl"
+    },
+    {
+      "character": "М",
+      "lowercase": "м",
+      "latin_transliteration": "M",
+      "italian_pronunciation": "ehm"
+    },
+    {
+      "character": "Н",
+      "lowercase": "н",
+      "latin_transliteration": "N",
+      "italian_pronunciation": "ehn"
+    },
+    {
+      "character": "О",
+      "lowercase": "о",
+      "latin_transliteration": "O",
+      "italian_pronunciation": "oh"
+    },
+    {
+      "character": "П",
+      "lowercase": "п",
+      "latin_transliteration": "P",
+      "italian_pronunciation": "peh"
+    },
+    {
+      "character": "Р",
+      "lowercase": "р",
+      "latin_transliteration": "R",
+      "italian_pronunciation": "ehr"
+    },
+    {
+      "character": "С",
+      "lowercase": "с",
+      "latin_transliteration": "S",
+      "italian_pronunciation": "ehs"
+    },
+    {
+      "character": "Т",
+      "lowercase": "т",
+      "latin_transliteration": "T",
+      "italian_pronunciation": "teh"
+    },
+    {
+      "character": "У",
+      "lowercase": "у",
+      "latin_transliteration": "U",
+      "italian_pronunciation": "oo"
+    },
+    {
+      "character": "Ф",
+      "lowercase": "ф",
+      "latin_transliteration": "F",
+      "italian_pronunciation": "eff"
+    },
+    {
+      "character": "Х",
+      "lowercase": "х",
+      "latin_transliteration": "Kh",
+      "italian_pronunciation": "khah"
+    },
+    {
+      "character": "Ц",
+      "lowercase": "ц",
+      "latin_transliteration": "Ts",
+      "italian_pronunciation": "tseh"
+    },
+    {
+      "character": "Ч",
+      "lowercase": "ч",
+      "latin_transliteration": "Ch",
+      "italian_pronunciation": "cheh"
+    },
+    {
+      "character": "Ш",
+      "lowercase": "ш",
+      "latin_transliteration": "Sh",
+      "italian_pronunciation": "sheh"
+    },
+    {
+      "character": "Щ",
+      "lowercase": "щ",
+      "latin_transliteration": "Shch",
+      "italian_pronunciation": "shch"
+    },
+    {
+      "character": "ь",
+      "lowercase": "ь",
+      "latin_transliteration": "",
+      "italian_pronunciation": ""
+    },
+    {
+      "character": "Ю",
+      "lowercase": "ю",
+      "latin_transliteration": "Yu",
+      "italian_pronunciation": "yoo"
+    },
+    {
+      "character": "Я",
+      "lowercase": "я",
+      "latin_transliteration": "Ya",
+      "italian_pronunciation": "yah"
+    }
+  ]
+}
