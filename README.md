@@ -5,9 +5,21 @@ A simple web app to help learning ukrainian language through some simple gamific
 
 ### Roadmap
 
-`rusticua` should be as barebone as possible, but still meeting minimum polishness standards
+`rusticua` should be as simple as possible, but still meeting minimum polishness standards
 
-At the moment the only challage under development is a cyrillic memory-game, but more challenges will be added in the future
+#### Stack
+
+For this reason, it has been decided to leverage below stack:
+
+`leptos`: main webframework for frontend SPA
+<br>
+`actix`: simple webserver framework to serve both `API` and `frontend`
+<br>
+`htmx`: ultra-modern `HTML` extension to write almost natively reactive `html` elements
+
+#### Challenges
+
+At the moment the only challenge under development is a cyrillic memory-game, but more challenges will be added in the future
 
 - [UNDER DEVELOPMENT] cyrillic-latin memory-game
 - [TODO] words memory-game
